@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "com.autismobean.drpgspawnfix.mixin",
+  "refmap": "drpgspawnfix.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "EntitySpawnRegistryMixin"
+  ],
+  "client": [],
+  "server": []
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "drpgspawnfix",
+  "name": "DivineRPGSpawnFix",
+  "description": "fixes ocean mass spawning",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["autismobean"],
+  "credits": "me and chatgpt",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["DivineRPG", "mixinbooter"]
+}
+]
